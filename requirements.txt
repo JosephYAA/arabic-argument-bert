@@ -1,0 +1,9 @@
+datasets==4.1.1
+evaluate==0.4.6
+numpy==2.3.3
+scikit_learn==1.7.2
+seqeval==1.2.2
+simalign==0.4
+torch==2.10.0.dev20251002+cu130
+tqdm==4.67.1
+transformers==4.56.2
